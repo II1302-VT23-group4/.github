@@ -13,7 +13,7 @@ We are a team of seven innovative developers working on an exciting IoT project 
 | Andreas      | Westberg     | CAndreasW                                            |
 
 
-Note: The account CarlAntonGrandelius was only recently created/activated. Consequently, its commits are visible, but the account does not appear in the "insights" tab.
+Note: The account CarlAntonGrandelius was only recently created/activated. Consequently, its commits are visible, but the account might not appear in the "insights" tab.
 
 ## Our Project 🚀
 
