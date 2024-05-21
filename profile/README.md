@@ -10,7 +10,7 @@ We are a team of seven innovative developers working on an exciting IoT project 
 | Hein         | Lee          | HLell                                                |
 | Christoffer  | Franzén      | chfranze                                             |
 | Seema        | Fatima Bashir| Seemamian                                            |
-| Andreas      | Westberg     | CAndreasW                                            |
+| Andreas      | Westberg     | anwestb & CAndreasW                                  |
 
 
 Note: The account CarlAntonGrandelius was only recently created/activated. Consequently, its commits are visible, but the account might not appear in the "insights" tab.
