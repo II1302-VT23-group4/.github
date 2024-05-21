@@ -8,7 +8,7 @@ We are a team of seven innovative developers working on an exciting IoT project 
 | Leo          | Andersson    | LeoAnderssonKTH                                      |
 | Erik         | Heiskanen    | RagingEel                                            |
 | Hein         | Lee          | HLell                                                |
-| Christoffer  | Franzén      | Christoffer Franzén                                  |
+| Christoffer  | Franzén      | chfranze                                             |
 | Seema        | Fatima Bashir| Seemamian                                            |
 | Andreas      | Westberg     | CAndreasW                                            |
 
